@@ -13,3 +13,11 @@ Une alarme déclenchant la porte du réfrigérateur ouverte.
 + Bread bord
 + Buzzer
 + Capteur de luminosité
+
+## __Bibliothéque utilisée__
+
++ Aucune
+
+## __Schéma__
+
+![Sketch](Sketch2.jpg)
