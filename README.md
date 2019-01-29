@@ -5,7 +5,7 @@ Une alarme déclenchant la porte du réfrigérateur ouverte.
 [@OSylla92](https://github.com/OSylla92)
 [@Eva]
 
-[![video]
+[![video](https://img.youtube.com/vi//w3OHjOc5Y/0.jpg)](http://youtu.be/w3OHjOc5Y)
 
 ## __Composants__
 
